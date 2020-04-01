@@ -1,0 +1,7 @@
+serverIp: 172.18.2.38
+serverPort: 8099
+dbIp: 172.18.2.5
+dbPort: 5462
+dbName: expressway
+testCasesFile: data/testCases2.xlsx
+outReport: report

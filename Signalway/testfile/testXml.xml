@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="gb2312" standalone="yes" ?>
+<GBT28181>
+    <Device ID="45010110002000000002" Region="4501011000" Name="重庆01" DeviceType="" IP="" Port="5061" Manufacturer="Signalway" Model="GBT28181CascadeConn" Owner="Signalway" CivilCode="广西壮族自治区" Block="西乡塘区" Address="南宁市" Latitude="116.232922" Longitude="" Status="ON" >HelloWorld</Device>
+</GBT28181>

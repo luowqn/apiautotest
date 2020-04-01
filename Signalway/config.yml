@@ -1,0 +1,14 @@
+#打逃平台ip
+serverIp: 172.18.121.13
+#打逃平台端口
+serverPort: 8080
+#登录账户
+userLoginName: superAdmin
+#登录密码
+userPassword: c4ca4238a0b923820dcc509a6f75849b
+#文件服务ip
+fdfsIp: 172.18.121.13
+#文件服务端口
+fdfsPort: 8880
+#设备验证，过车数据查询间隔
+passCarQuery: 1000

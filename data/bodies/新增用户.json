@@ -1,0 +1,7 @@
+{
+    "realName":"${realName}",
+    "loginName":"${loginName}",
+    "loginPwd":"${loginPwd}",
+    "organizationId":"${organizationId}",
+    "roleIds":[${roleIds}]
+}
