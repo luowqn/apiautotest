@@ -89,3 +89,5 @@ import  random
 
 print(len('006545001003920010'))
 print('G00'+str(random.randint(8000000000000000,9000000000000000)))
+
+print('''sshCommand remote: remote,command:"/opt/deploy/deployDocker.sh" ${params.DOCKER_IMAGE4} ${params.JAR_NAME4} ${GIT_TAG} 8100 '/opt/deploy/'"'''[0])

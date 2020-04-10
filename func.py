@@ -41,6 +41,11 @@ def RunTestCase():
                             filterGetVars[tempFilterVars.get(i)] = tempGetVars.get(i)
                         else:
                             getVars.append(tempGetVars.get(i))
+
+                print(filterGetVars)
+                print(getVars)
+                # vars = {"seq1":i+1,"seq2":j+1,"bodyfile": testModule.bodyFile,"bodyargs":testModule.reqVars,"url":testModule.reqUrl,
+                #         "no":testModule.no,"method":testModule.method,"respOps":','.join("'"+respOp+"'"for respOp in testModule.respOpss.split('\n')}
                 # vars = {"seq1": i+1, "seq2": j + 1, "testMethodDoc": testModule.name, "url": testModule.reqUrl,"bodyfile": testModule.bodyFile,
                 #         "no":testModule.no,"respAssertions": ','.join("'" + respAssertion + "'" for respAssertion in respAssertions),
                 #         "respOps":','.join("'"+respOp+"'"for respOp in respOps)}
